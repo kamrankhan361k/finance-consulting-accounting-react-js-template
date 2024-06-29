@@ -1,0 +1,187 @@
+/**
+  * Color
+  * Border Color
+  * Background Color  
+*/
+
+/* Color
+-------------------------------------------------------------- */
+.flat-infomation li a:hover, 
+.flat-questions a:hover,
+#mainnav .menu > li > a:hover,
+.top-search #searchform-all #searchsubmit,
+a:hover,
+a:focus,
+.widget-box .widget-services .one-half li a:hover,
+.footer-bottom .copyright a:hover, 
+.footer-bottom .menu-footer li a:hover,
+.iconbox-slider .slides .item .title-post a:hover,
+.iconbox-slider .slides .item .category-post a:hover,
+.header.style2 #mainnav .menu > li > a:hover,
+.header.style3 #mainnav .menu > li > a:hover,
+.imagebox.style2 .imagebox-content .imagebox-button a,
+.iconbox.style3 .icon-benefit:before,
+.owl-theme .owl-controls .owl-nav div.owl-prev:hover:before, 
+.owl-theme .owl-controls .owl-nav div.owl-next:hover:before,
+article.post.style3 .news-button.style3 a,
+article.post.style3 .news-button.style3 a:after,
+.page-title .breadcrumbs li a,
+.flat-text-block-timeline .year,
+.flat-imagebox.services-grid .flat-imagebox-button a,
+.box-content .flat-list li:before,
+.portfolio-filter li a:hover,
+.flat-portfolio .portfolio-gallery .item .title-post a:hover, 
+.flat-portfolio .portfolio-gallery .item .category-post a:hover,
+.entry-post-title ul.entry-meta li a:hover,
+.widget-infomation ul.infomation-footer li a:hover,
+.switcher-container h2 i,
+.switcher-container h2 a.active:after,
+.top.style2 .flat-open-hours .icon, 
+.top.style2 .flat-address .icon,
+.iconbox .box-header .box-title a:hover, .notification_error, .notification_ok, .form-info label.error, .flat-callback-form .flat-field .field-one-half label.error {
+  color: #f87b27;
+}
+
+
+/* Border Color
+-------------------------------------------------------------- */
+.blog-carosuel.owl-theme .owl-dots .owl-dot.active span::before,
+#flat-testimonials-carousel ul li:first-child img,
+.flex-direction-nav a,
+.tp-caption.flat-button-slider.bg-blue,
+.tp-caption.flat-button-slider.bg-transparent:hover, 
+.tp-caption.flat-button-slider:hover,
+.flat-testimonials-post .owl-controls .owl-nav [class*=owl-]:hover,
+.form-info input:focus, 
+.form-info textarea:focus,
+.top.style2 .flat-open-hours .icon, 
+.top.style2 .flat-address .icon {
+	border-color: #f87b27;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+button, input[type="button"], 
+input[type="reset"], 
+input[type="submit"] {
+	border-color: #f87b27;
+}
+
+/* Background Color
+-------------------------------------------------------------- */
+.flat-questions a.appointment,
+#mainnav .menu > li > .sub-menu > li > a:hover,
+.imagebox.style1 .imagebox-content .imagebox-button a,
+.title-section h2:after,
+.iconbox .box-header .icon-rounded:after,
+.owl-theme .owl-controls .owl-nav div,
+button, input[type="button"], 
+input[type="reset"], 
+input[type="submit"],
+article.post:hover .featured-post ul.post-date,
+article.post .content-post:after,
+.widget-infomation ul.infomation-footer li i.fa,
+.tp-caption.flat-button-slider.bg-blue,
+.tp-caption.flat-button-slider.bg-transparent:hover, 
+.tp-caption.flat-button-slider:hover,
+.go-top:hover,
+.imagebox.style2 .imagebox-image:after, 
+.imagebox.style3 .imagebox-image:after,
+.progres .progress-title h2:after, 
+.accordion .accordion-title h2:after,
+.flat-accordion.style2 .toggle-title.active,
+.flat-progress .progress-animate,
+.block-quote .quote-content:before,
+.imagebox.style3 .imagebox-image:before,
+.flat-testimonials-post .owl-controls .owl-nav [class*=owl-]:hover,
+.wrap-button.s2 .flat-button,
+.sidebar .widget.widget_nav_menu ul li.active, 
+.sidebar .widget.widget_nav_menu ul li:hover,
+.widget-brochure .btn-download a:hover,
+.title-section h2:after,
+.flex-direction-nav a,
+.flat-imagebox.services-grid .flat-imagebox-image:after,
+.flat-accordion .toggle-title.active,
+.flat-accordion .toggle-title,
+.portfolio-filter li.active a:after,
+.portfolio-filter li a:after,
+.flat-button:hover,
+article.main-post .entry-content a.more-link,
+.widget .widget-title:after,
+.widget-tags .tag-cloud a,
+.flat-pagination li a:hover, 
+.flat-pagination li a.active,
+article.post .content-post .more-link a:hover,
+.btn-menu:before, 
+.btn-menu:after, 
+.btn-menu span {
+	background-color: #f87b27;
+}
+
+
+.flex-control-paging li a.flex-active {
+	-webkit-box-shadow: inset 0 0 5px rgba(248, 123, 39, 1);
+       -moz-box-shadow: inset 0 0 5px rgba(248, 123, 39, 1);
+         -o-box-shadow: inset 0 0 5px rgba(248, 123, 39, 1);
+            box-shadow: inset 0 0 5px rgba(248, 123, 39, 1);
+}
+
+.flat-testimonials-post .owl-controls .owl-nav div.owl-prev:hover:before, 
+.flat-testimonials-post .owl-controls .owl-nav div.owl-next:hover:before {
+    color: #fff;
+}
+
+.loading-effect-2 > span,
+.loading-effect-2 > span:before,
+.loading-effect-2 > span:after {
+	content: "";
+	display: block;
+	border-radius: 50%;
+	border: 2px solid #f87b27;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	   -moz-transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		 -o-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+}
+
+.loading-effect-2 > span {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	border-left-color: transparent;
+	-webkit-animation: effect-2 2s infinite linear;
+	   -moz-animation: effect-2 2s infinite linear;
+	    -ms-animation: effect-2 2s infinite linear;
+	     -o-animation: effect-2 2s infinite linear;
+	        animation: effect-2 2s infinite linear;
+}
+
+.loading-effect-2 > span:before {
+	width: 75%;
+	height: 75%;
+	border-right-color: transparent;
+}
+
+.loading-effect-2 > span:after {
+	width: 50%;
+	height: 50%;
+	border-bottom-color: transparent;
+}
